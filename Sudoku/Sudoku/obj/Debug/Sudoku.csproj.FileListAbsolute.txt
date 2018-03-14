@@ -1,0 +1,14 @@
+F:\Usuarios\Carlos\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+F:\Usuarios\Carlos\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+F:\Usuarios\Carlos\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+F:\Usuarios\Carlos\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+F:\Usuarios\Carlos\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+F:\Usuarios\Carlos\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+F:\Usuarios\Carlos\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\cardi\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\cardi\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\cardi\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\cardi\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\cardi\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\cardi\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\cardi\OneDrive\Documents\Universidad\2018-01\Orientada a Objetos\Laboratorios\Lab-01\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
